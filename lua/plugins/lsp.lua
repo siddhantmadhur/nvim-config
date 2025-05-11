@@ -37,7 +37,7 @@ return {
                 "cssls",
                 "ast_grep",
                 "dockerls",
-                "glslls",
+                --"glslls",
                 "gopls",
                 "html",
                 "eslint",
